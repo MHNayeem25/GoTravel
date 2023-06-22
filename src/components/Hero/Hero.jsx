@@ -38,7 +38,7 @@ function Hero() {
     if (picNum < 4) setPicNum(picNum + 1);
   };
   const decrement = () => {
-    if (!picNum === 0) setPicNum(picNum - 1);
+    if (picNum > 0) setPicNum(picNum - 1);
   };
   const iconStyle = hoverBtn
     ? "fa-solid fa-arrow-right fa-shake"
