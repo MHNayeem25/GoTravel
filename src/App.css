@@ -1,0 +1,11 @@
+body {
+    position: relative;
+}
+
+
+html {
+    font-family: 'Roboto Condensed', sans-serif;
+    scroll-padding-top: 3.2rem;
+    /*dont forget for adjusting hidden text due to  internal links from navbar*/
+    scroll-behavior: smooth;
+}

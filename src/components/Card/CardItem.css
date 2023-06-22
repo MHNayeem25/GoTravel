@@ -1,0 +1,17 @@
+.card_item {
+    height: 20em;
+    /* width: 20em; */
+    overflow: hidden;
+    /* object-fit: fill; */
+}
+
+.card_link {
+    text-decoration: none;
+    color: black;
+}
+
+.card_img {
+    overflow: hidden;
+    object-fit: fill;
+    width: 40em;
+}

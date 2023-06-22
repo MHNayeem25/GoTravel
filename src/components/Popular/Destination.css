@@ -1,0 +1,23 @@
+/* .to-go-section {
+
+} */
+
+.sec-header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0 5em;
+}
+
+.to-go {
+    text-align: left;
+    padding-left: 5em;
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.pplr-destiny {
+    font-family: 'Playfair Display', serif;
+}
+

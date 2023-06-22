@@ -1,0 +1,8 @@
+.card {
+    display: flex;
+    align-items: center;
+    max-width: 1120px;
+    width: 90%;
+    padding: 3em;
+    height: 30em;
+}
